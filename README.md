@@ -5,3 +5,6 @@ To study Docker and Kubernetes. Conducted by the team “Shut up! Let's go!”
 - WindowsOSユーザ：WSL＋Docker or Docker Desktop
 - MacOSユーザ:Docker Desktop
 
+# Docker仕様
+- node.js + postgres とする
+- expressを利用したGETメゾット
